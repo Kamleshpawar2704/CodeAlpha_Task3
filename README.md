@@ -5,10 +5,10 @@
 
 *DOMAIN*: MACHINE LEARNING
 
-*NAME*: ANWESHA BOSE
+*NAME*: KAMLESH SUNIL PAWAR
 
-*Student ID*: CA/MA1/3782
+*Student ID*: CA/JU1/9431
 
-*DURATION*: 1st May 2025 to 30th May 2025
+*DURATION*: 10th JUNE 2025 to 10th JULY 2025
 
 *CSV FILE*: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
